@@ -11,3 +11,5 @@
 
 ## OCR
 - https://github.com/tesseract-ocr
+## C/C++库
+- http://m.blog.csdn.net/article/details?id=49001887
