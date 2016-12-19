@@ -4,10 +4,6 @@
 - https://github.com/premake/premake-core/wiki/Build_Settings
 
 ## Scons
-- http://www.ibm.com/developerworks/cn/linux/l-cn-scons/
-- http://blog.csdn.net/fly542/article/details/38342003
-- http://os.51cto.com/art/201104/257443.htm
-- http://blog.sina.com.cn/s/blog_5eb8ebcb0100sjlb.html
 
 ## CMake
 - http://www.cnblogs.com/lyq105/archive/2010/12/03/1895067.html
