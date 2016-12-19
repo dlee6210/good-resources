@@ -11,7 +11,6 @@
 - http://www.linuxidc.com/Linux/2015-10/124447.htm
 
 ## waf
-- http://blog.csdn.net/talking12391239/article/details/8646385
 - https://waf.io/book/
 - https://github.com/waf-project/waf/tree/master/demos
 - https://github.com/waf-project/waf
