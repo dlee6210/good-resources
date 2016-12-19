@@ -1,6 +1,7 @@
 ## premake
 - usage wiki: https://github.com/premake/premake-core/wiki
 - 谁在用premake: https://github.com/premake/premake-core/wiki/Who-Uses-Premake
+- https://github.com/premake/premake-core/wiki/Build_Settings
 
 ## Scons
 - http://www.ibm.com/developerworks/cn/linux/l-cn-scons/
